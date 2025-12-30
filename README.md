@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-End Engineer  🚀<br><br>I build high-quality, scalable web applications with a focus on seamless user experiences. While I’m a specialist in React, TypeScript, and CSS, my background in Java, Node.js, and Databases allows me to bridge the gap between design and robust architecture.
+Front-End Engineer  🚀<br><br>I build high-quality, scalable web applications with a focus on seamless user experiences. While I’m a specialist in React, TypeScript, and CSS, my background in  Node.js, and Databases allows me to bridge the gap between design and robust architecture.
 
 
 ## 🌐 Socials:
